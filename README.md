@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Shankar — I build GenAI that works in production
 
-<!--
-**shankarlr/shankarlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI/LLM engineer who ships systems, not demos.
 
-Here are some ideas to get you started:
+## Live projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Stack | Status |
+|---|---|---|
+| Audit-Ready Sentinel | LangChain · FAISS · FastAPI | Live |
+| AI Agent Governance SDK | Python · LangChain · OpenAI | Open Source |
+| Production RAG API | LangChain · FAISS · FastAPI | Live REST API |
+| LLM Agent w/ Tool-Calling | LangChain · Streamlit | Production-ready |
+
+## Stack
+
+LangChain · LangGraph · FAISS · ChromaDB · FastAPI · OpenAI · Anthropic
+Prompt Engineering · RAG · Agentic AI · EU AI Act · LLM Governance
+
+## Open to work
+
+Remote AI/LLM Engineer · Prompt Engineer · GenAI Builder
+Bangalore · IST · Immediate joiner
+lrshankar91@gmail.com · linkedin.com/in/shankar-l-r-92b4a1292
