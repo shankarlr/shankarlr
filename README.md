@@ -6,9 +6,9 @@ I'm an AI/LLM engineer who ships systems, not demos.
 
 | Project | Stack | Status |
 |---|---|---|
-| Audit-Ready Sentinel | LangChain · FAISS · FastAPI | Live |
-| AI Agent Governance SDK | Python · LangChain · OpenAI | Open Source |
-| Production RAG API | LangChain · FAISS · FastAPI | Live REST API |
+| Audit-Ready Sentinel | LangChain · FAISS · FastAPI | Live | (Not added in GITHUB)
+| AI Agent Governance SDK | Python · LangChain · OpenAI | Open Source | (Not added in GITHUB)
+| Production RAG API | LangChain · FAISS · FastAPI | Live FAST API | 
 | LLM Agent w/ Tool-Calling | LangChain · Streamlit | Production-ready |
 
 ## Stack
